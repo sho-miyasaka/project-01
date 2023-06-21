@@ -1,0 +1,25 @@
+﻿country,age,percent
+USA,under 30,86
+China,under 30,28
+Korea,under 30,64.7
+Russia,under 30,6.7
+USA,30s,81.6
+China,30s,23.7
+Korea,30s,54.7
+Russia,30s,7.9
+USA,40s,84.5
+China,40s,19.2
+Korea,40s,41.9
+Russia,40s,4.9
+USA,50s,89.9
+China,50s,16.8
+Korea,50s,46.5
+Russia,50s,7.9
+USA,60s,89.5
+China,60s,12.8
+Korea,60s,45.2
+Russia,60s,2.6
+USA,70 and over,87.9
+China,70 and over,15.6
+Korea,70 and over,39.1
+Russia,70 and over,3.2
