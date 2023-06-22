@@ -2,6 +2,7 @@
 ## Lede Program Project 1
 
 This is my submission as project 1 for the Lede Program in 2023.
+
 The story webpage is here: [https://sho-miyasaka.github.io/project-01/](https://sho-miyasaka.github.io/project-01/)
 
 I focused on the sentiment of Japanese citizens toward foreign countries and then obtained [csv data
