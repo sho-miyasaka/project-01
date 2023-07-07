@@ -8,7 +8,7 @@ The story webpage is here: [https://sho-miyasaka.github.io/project-01/](https://
 I focused on the sentiment of Japanese citizens toward foreign countries and then obtained [csv data
 ](https://survey.gov-online.go.jp/r04/r04-gaiko/) from [the Cabinet Office of Japan](https://www.cao.go.jp/index-e.html), which has been conducting foreign policy opinion polls for over 40 years.
 
-|What I plotted	Data source|Data source|
+|What I plotted|Data source|
 |---|---|
 |familiarity with neighboring countries|Foreign Policy Opinion Polls by the Cabinet Office of Japan(https://survey.gov-online.go.jp/r04/r04-gaiko/|
 
